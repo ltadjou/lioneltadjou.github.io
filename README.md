@@ -1,10 +1,11 @@
-# 🧠 Lionel Tadjou — AI Engineer & NLP Researcher
+# 🧠 Lionel Tadjou - AI Engineer & NLP Researcher
 
 📍 Paris, France  
 📧 lioneltadjou@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/lionel-tadjou) | [GitHub](https://github.com/lioneltadjou)  
 🎓 PhD in Natural Language Processing — Sorbonne University  
 🧩 5+ years in NLP & LLM Engineering | 5 years in Full-Stack Development  
+
 
 ---
 
